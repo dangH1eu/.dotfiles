@@ -1,0 +1,12 @@
+# Blocklist files/folders in same directory as the .gitignore file
+*
+
+# Includelist some files
+!.gitignore
+!.zshrc
+!.config/
+!.config/nvim/
+!.config/nvim/init.lua
+!.config/tmux/
+!.config/tmux/tmux.conf
+
