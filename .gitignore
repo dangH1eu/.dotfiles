@@ -2,6 +2,7 @@
 *
 
 # Includelist some files
+!install.sh
 !.gitignore
 !.zshrc
 !.config/
